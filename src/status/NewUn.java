@@ -6,7 +6,7 @@ package status;
 
 /**
  *
- * @author vella
+ * @author eshaarveerSingh
  */
 public enum NewUn {
     REJECTED("Rejected: User has been rejected."),
