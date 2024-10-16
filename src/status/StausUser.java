@@ -7,10 +7,10 @@ package status;
 
 /**
  * MidTerm-Exam
- * @author srinivsi
+ * @author esharveerSingh
  */
 public class StausUser {
     public void statusDetail(NewUn status) {
-        status.printStatus(); // Using NewUn's method to print status details
+        status.printStatus();
     }
 }
